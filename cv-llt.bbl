@@ -1,0 +1,480 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ymdnt/global//global/global}
+    \entry{tomkins2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3cf4e7d0ef2ff9e1fa5b18e724a09536}{%
+           family={Tomkins},
+           familyi={T\bibinitperiod},
+           given={Melissa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8253706881eea64be28f5b8e0c06c811}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Aoife},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72adea744e8aacc8d13b7b5fbd1e7979}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{20d9a05bacb39d7a33abb88459c0e499}
+      \strng{fullhash}{154a76d7873db7d3c05a46e44a49f7af}
+      \strng{bibnamehash}{154a76d7873db7d3c05a46e44a49f7af}
+      \strng{authorbibnamehash}{154a76d7873db7d3c05a46e44a49f7af}
+      \strng{authornamehash}{20d9a05bacb39d7a33abb88459c0e499}
+      \strng{authorfullhash}{154a76d7873db7d3c05a46e44a49f7af}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Transport across membranes is critical for plant survival. Membranes are the interfaces at which plants interact with their environment. The transmission of energy and molecules into cells provides plants with the source material and power to grow, develop, defend, and move. An appreciation of the physical forces that drive transport processes is thus important for understanding the plant growth and development. We focus on the passive transport of molecules, describing the fundamental concepts and demonstrating how different levels of abstraction can lead to different interpretations of the driving forces. We summarize recent developments on quantitative frameworks for describing diffusive and bulk flow transport processes in and out of cells, with a more detailed focus on plasmodesmata, and outline open questions and challenges.}
+      \field{issn}{0032-0889}
+      \field{journaltitle}{Plant Physiology}
+      \field{month}{9}
+      \field{number}{kiab406}
+      \field{title}{An {{Update}} on {{Passive Transport}} in and out of {{Plant Cells}}}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1093/plphys/kiab406
+      \endverb
+      \verb{file}
+      \verb /Users/aoife/GDrive/Papers/T/Tomkins et al_2021_An Update on Passive Transport in and out of Plant Cells2.pdf;/Users/aoife/Zotero/storage/AGDL6AB6/6364193.html
+      \endverb
+    \endentry
+    \entry{hughes2021a}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8253706881eea64be28f5b8e0c06c811}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Aoife},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94999d487b63203956db0895f737b56f}{%
+           family={Faulkner},
+           familyi={F\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72adea744e8aacc8d13b7b5fbd1e7979}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cf4e7d0ef2ff9e1fa5b18e724a09536}{%
+           family={Tomkins},
+           familyi={T\bibinitperiod},
+           given={Melissa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f66d3c5ef51c3f1324b4f13d2f5a4aa}
+      \strng{fullhash}{5fe0c77e54804cab673ee3f0a607ec3a}
+      \strng{bibnamehash}{5fe0c77e54804cab673ee3f0a607ec3a}
+      \strng{authorbibnamehash}{5fe0c77e54804cab673ee3f0a607ec3a}
+      \strng{authornamehash}{9f66d3c5ef51c3f1324b4f13d2f5a4aa}
+      \strng{authorfullhash}{5fe0c77e54804cab673ee3f0a607ec3a}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Molecular communication is key for multicellular organisms. In plants, the exchange of nutrients and signals between cells is facilitated by tunnels called plasmodesmata. Such transport processes in complex geometries can be simulated using particle-based approaches, these, however, are computationally expensive. Here, we evaluate the narrow escape problem as a framework for describing intercellular transport. We introduce a volumetric adjustment factor for estimating escape times from non-spherical geometries. We validate this approximation against full 3D stochastic simulations and provide results for a range of cell sizes and diffusivities. We discuss how this approach can be extended using recent results on multiple trap problems to account for different plasmodesmata distributions with varying apertures.}
+      \field{issn}{2332-7804}
+      \field{journaltitle}{IEEE Transactions on Molecular, Biological and Multi-Scale Communications}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{Intercellular {{Communication}} as a {{Series}} of {{Narrow Escape Problems}}}
+      \field{volume}{7}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{89\bibrangedash 93}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/TMBMC.2021.3083719
+      \endverb
+      \verb{file}
+      \verb /Users/aoife/PHD/Zotfile/H/Hughes et al_2021_Intercellular Communication as a Series of Narrow Escape Problems.pdf;/Users/aoife/Zotero/storage/4TCM2YWR/9440948.html
+      \endverb
+      \keyw{Analytical models,Apertures,Biological system modeling,diffusion,Geometry,intercellular communication,Mathematical model,Narrow escape problem,plasmodesmata,Shape,signalling,Solid modeling,symplastic transport}
+    \endentry
+    \entry{ohtsu2021}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=03e7c21d65f79fa599992ee2de097f16}{%
+           family={Ohtsu},
+           familyi={O\bibinitperiod},
+           given={Mina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c0d1342c945804b94a578f339acb7f5}{%
+           family={Jennings},
+           familyi={J\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0255ca104f8d04ce5919d27421467a34}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=679f06f5f93053844fc66fefc44cd31e}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaokun},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8253706881eea64be28f5b8e0c06c811}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Aoife},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2406523563bf7aa859600a964bb23cab}{%
+           family={Stark},
+           familyi={S\bibinitperiod},
+           given={Kara},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72adea744e8aacc8d13b7b5fbd1e7979}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a9566d7652d5b05891d8e28218a16a9}{%
+           family={Keijzer},
+           familyi={K\bibinitperiod},
+           given={Jeroen},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=94999d487b63203956db0895f737b56f}{%
+           family={Faulkner},
+           familyi={F\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {bioRxiv}%
+      }
+      \strng{namehash}{62582418df2d6538a0e10e3d7732a13c}
+      \strng{fullhash}{7072d4877b7469a6bf50e80d614b6102}
+      \strng{bibnamehash}{737dedd19164e0fb5f9989ae8b565df1}
+      \strng{authorbibnamehash}{737dedd19164e0fb5f9989ae8b565df1}
+      \strng{authornamehash}{62582418df2d6538a0e10e3d7732a13c}
+      \strng{authorfullhash}{7072d4877b7469a6bf50e80d614b6102}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Multicellular organisms exchange information and resources between cells to co-ordinate growth and responses. In plants, plasmodesmata establish cytoplasmic continuity between cells to allow for communication and resource exchange across the cell wall. Some plant pathogens use plasmodesmata as a pathway for both molecular and physical invasion. However, the benefits of molecular invasion (cell-to-cell movement of pathogen effectors) are poorly understood. To begin to investigate this and identify which effectors are cell-to-cell mobile, we performed a live imaging-based screen and identified 15 cell-to-cell mobile effectors of the fungal pathogen Colletotrichum higginsianum. Of these, 6 are ``hypermobile'', showing cell-to-cell mobility greater than expected for a protein of its size. We further identified 3 effectors that can indirectly modify plasmodesmal aperture. Transcriptional profiling of plants expressing hypermobile effectors implicate them in a variety of processes including senescence, glucosinolate production, cell wall integrity, growth and iron metabolism. However, not all effectors had an independent effect on virulence. This suggests a wide range of benefits to infection gained by the mobility of C. higginsianum effectors that likely interact in a complex way during infection.}
+      \field{chapter}{New Results}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{title}{Colletotrichum Higginsianum Effectors Exhibit Cell to Cell Hypermobility in Plant Tissues and Modulate Intercellular Connectivity amongst a Variety of Cellular Processes}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{2021.01.13.426415}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1101/2021.01.13.426415
+      \endverb
+      \verb{file}
+      \verb /Users/aoife/PHD/Zotfile/O/Ohtsu et al_2021_Colletotrichum higginsianum effectors exhibit cell to cell hypermobility in.pdf;/Users/aoife/Zotero/storage/L2JZ8PHS/2021.01.13.html
+      \endverb
+    \endentry
+    \entry{hughesPyEscape2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8253706881eea64be28f5b8e0c06c811}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Aoife},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72adea744e8aacc8d13b7b5fbd1e7979}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cf4e7d0ef2ff9e1fa5b18e724a09536}{%
+           family={Tomkins},
+           familyi={T\bibinitperiod},
+           given={Melissa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{9f66d3c5ef51c3f1324b4f13d2f5a4aa}
+      \strng{fullhash}{8dfb30754ec7d4c566a3e37ca06ec7db}
+      \strng{bibnamehash}{8dfb30754ec7d4c566a3e37ca06ec7db}
+      \strng{authorbibnamehash}{8dfb30754ec7d4c566a3e37ca06ec7db}
+      \strng{authornamehash}{9f66d3c5ef51c3f1324b4f13d2f5a4aa}
+      \strng{authorfullhash}{8dfb30754ec7d4c566a3e37ca06ec7db}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Open Source Software}
+      \field{month}{2}
+      \field{title}{{{PyEscape: A narrow-escape problem simulation implementation}}}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{file}
+      \verb /Users/hughesn/Zotero/storage/MM5GXL3K/c47ec67686a14361072ed703a58bac15.html
+      \endverb
+    \endentry
+    \entry{unpublishedMe}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=8253706881eea64be28f5b8e0c06c811}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Aoife},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20cdee14807a627a569e2a00219a839e}{%
+           family={Fradgley},
+           familyi={F\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0284f58dfbf234ec9eccb72d9ef5919e}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13b8e5765d8b92967e8aeb4be1c507ec}{%
+           family={Corke},
+           familyi={C\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e08612ac161139ea938bce7cc66901a}{%
+           family={Cockram},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=903916022905edf7655063aa4f9ba97d}{%
+           family={Doonan},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a67fca15ba072bcb87efd9c299b099b}{%
+           family={Nibau},
+           familyi={N\bibinitperiod},
+           given={Candida},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f66d3c5ef51c3f1324b4f13d2f5a4aa}
+      \strng{fullhash}{4151fb4b50d2f196ba2ca4b983bab11a}
+      \strng{bibnamehash}{4151fb4b50d2f196ba2ca4b983bab11a}
+      \strng{authorbibnamehash}{4151fb4b50d2f196ba2ca4b983bab11a}
+      \strng{authornamehash}{9f66d3c5ef51c3f1324b4f13d2f5a4aa}
+      \strng{authorfullhash}{4151fb4b50d2f196ba2ca4b983bab11a}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Plant Journal}
+      \field{title}{Grain depth increases during early domestication in small grain cereals}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{cook2018barley}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=996bd7f258461a9f0a55677f5a9a5318}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Frederick},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8253706881eea64be28f5b8e0c06c811}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Aoife},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a67fca15ba072bcb87efd9c299b099b}{%
+           family={Nibau},
+           familyi={N\bibinitperiod},
+           given={Candida},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=426e910871fba1ea069fd517d76b65a1}{%
+           family={Orman-Ligeza},
+           familyi={O\bibinithyphendelim L\bibinitperiod},
+           given={Beata},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47e16254497b5dcd45a8595add5e307d}{%
+           family={Schatlowski},
+           familyi={S\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61000bcdb17e3dfb35a35849367113fb}{%
+           family={Uauy},
+           familyi={U\bibinitperiod},
+           given={Cristobal},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27182066f21a0fe57d57920aae02064d}{%
+           family={Trafford},
+           familyi={T\bibinitperiod},
+           given={Kay},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6b5895680182cbde64ca43c25ba52ed4}
+      \strng{fullhash}{7b0d6044bda5ff5caac97e1c4e1d555e}
+      \strng{bibnamehash}{7b0d6044bda5ff5caac97e1c4e1d555e}
+      \strng{authorbibnamehash}{7b0d6044bda5ff5caac97e1c4e1d555e}
+      \strng{authornamehash}{6b5895680182cbde64ca43c25ba52ed4}
+      \strng{authorfullhash}{7b0d6044bda5ff5caac97e1c4e1d555e}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cereal Science}
+      \field{title}{Barley lys3 mutants are unique amongst shrunken-endosperm mutants in having abnormally large embryos}
+      \field{volume}{82}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{16\bibrangedash 24}
+      \range{pages}{9}
+    \endentry
+    \entry{hughesNonDestructiveHighContentAnalysis2017}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=8253706881eea64be28f5b8e0c06c811}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Aoife},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce260dca38a6c85eccf21683eb7cd55d}{%
+           family={Askew},
+           familyi={A\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a4c662fc3add07bca57e4d07c432eb4}{%
+           family={Scotson},
+           familyi={S\bibinitperiod},
+           given={Callum\bibnamedelima P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38413b3a7fb968d90657e58d5f7880f9}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8bdec7aaf9a3ae55f930b37247854b2e}{%
+           family={Sauze},
+           familyi={S\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13b8e5765d8b92967e8aeb4be1c507ec}{%
+           family={Corke},
+           familyi={C\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=903916022905edf7655063aa4f9ba97d}{%
+           family={Doonan},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a67fca15ba072bcb87efd9c299b099b}{%
+           family={Nibau},
+           familyi={N\bibinitperiod},
+           given={Candida},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f66d3c5ef51c3f1324b4f13d2f5a4aa}
+      \strng{fullhash}{4e70d3ba1574e6cbdfc329dbc708081f}
+      \strng{bibnamehash}{af52bad3b8da4dff4eb45717f68f4826}
+      \strng{authorbibnamehash}{af52bad3b8da4dff4eb45717f68f4826}
+      \strng{authornamehash}{9f66d3c5ef51c3f1324b4f13d2f5a4aa}
+      \strng{authorfullhash}{4e70d3ba1574e6cbdfc329dbc708081f}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Wheat is one of the most widely grown crop in temperate climates for food and animal feed. In order to meet the demands of the predicted population increase in an ever-changing climate, wheat production needs to dramatically increase. Spike and grain traits are critical determinants of final yield and grain uniformity a commercially desired trait, but their analysis is laborious and often requires destructive harvest. One of the current challenges is to develop an accurate, non-destructive method for spike and grain trait analysis capable of handling large populations. In this study we describe the development of a robust method for the accurate extraction and measurement of spike and grain morphometric parameters from images acquired by X-ray micro-computed tomography ($\mu$CT). The image analysis pipeline developed automatically identifies plant material of interest in $\mu$CT images, performs image analysis, and extracts morphometric data. As a proof of principle, this integrated methodology was used to analyse the spikes from a population of wheat plants subjected to high temperatures under two different water regimes. Temperature has a negative effect on spike height and grain number with the middle of the spike being the most affected region. The data also confirmed that increased grain volume was correlated with the decrease in grain number under mild stress. Being able to quickly measure plant phenotypes in a non-destructive manner is crucial to advance our understanding of gene function and the effects of the environment. We report on the development of an image analysis pipeline capable of accurately and reliably extracting spike and grain traits from crops without the loss of positional information. This methodology was applied to the analysis of wheat spikes can be readily applied to other economically important crop species.}
+      \field{issn}{17464811}
+      \field{journaltitle}{Plant Methods}
+      \field{number}{1}
+      \field{title}{Non-{{Destructive}}, {{High}}-{{Content Analysis}} of {{Wheat Grain Traits Using X}}-{{Ray Micro Computed Tomography}}}
+      \field{volume}{13}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1186/s13007-017-0229-8
+      \endverb
+      \keyw{Wheat,Image analysis,3D vision,Grain traits,Temperature,X-ray micro computed tomography,μCT}
+    \endentry
+  \enddatalist
+  \keyalias{ohtsu2021a}{ohtsu2021}
+\endrefsection
+\endinput
+
