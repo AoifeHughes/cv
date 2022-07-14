@@ -47,7 +47,7 @@
       \strng{authornamehash}{20d9a05bacb39d7a33abb88459c0e499}
       \strng{authorfullhash}{154a76d7873db7d3c05a46e44a49f7af}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -103,9 +103,10 @@
       \strng{authorfullhash}{5fe0c77e54804cab673ee3f0a607ec3a}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Molecular communication is key for multicellular organisms. In plants, the exchange of nutrients and signals between cells is facilitated by tunnels called plasmodesmata. Such transport processes in complex geometries can be simulated using particle-based approaches, these, however, are computationally expensive. Here, we evaluate the narrow escape problem as a framework for describing intercellular transport. We introduce a volumetric adjustment factor for estimating escape times from non-spherical geometries. We validate this approximation against full 3D stochastic simulations and provide results for a range of cell sizes and diffusivities. We discuss how this approach can be extended using recent results on multiple trap problems to account for different plasmodesmata distributions with varying apertures.}
@@ -196,7 +197,7 @@
       \strng{authornamehash}{62582418df2d6538a0e10e3d7732a13c}
       \strng{authorfullhash}{7072d4877b7469a6bf50e80d614b6102}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -250,9 +251,10 @@
       \strng{authorfullhash}{8dfb30754ec7d4c566a3e37ca06ec7db}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Open Source Software}
@@ -317,9 +319,10 @@
       \strng{authorfullhash}{4151fb4b50d2f196ba2ca4b983bab11a}
       \field{extraname}{3}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Plant Journal}
@@ -382,7 +385,7 @@
       \strng{authornamehash}{6b5895680182cbde64ca43c25ba52ed4}
       \strng{authorfullhash}{7b0d6044bda5ff5caac97e1c4e1d555e}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
@@ -455,9 +458,10 @@
       \strng{authorfullhash}{4e70d3ba1574e6cbdfc329dbc708081f}
       \field{extraname}{4}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Wheat is one of the most widely grown crop in temperate climates for food and animal feed. In order to meet the demands of the predicted population increase in an ever-changing climate, wheat production needs to dramatically increase. Spike and grain traits are critical determinants of final yield and grain uniformity a commercially desired trait, but their analysis is laborious and often requires destructive harvest. One of the current challenges is to develop an accurate, non-destructive method for spike and grain trait analysis capable of handling large populations. In this study we describe the development of a robust method for the accurate extraction and measurement of spike and grain morphometric parameters from images acquired by X-ray micro-computed tomography ($\mu$CT). The image analysis pipeline developed automatically identifies plant material of interest in $\mu$CT images, performs image analysis, and extracts morphometric data. As a proof of principle, this integrated methodology was used to analyse the spikes from a population of wheat plants subjected to high temperatures under two different water regimes. Temperature has a negative effect on spike height and grain number with the middle of the spike being the most affected region. The data also confirmed that increased grain volume was correlated with the decrease in grain number under mild stress. Being able to quickly measure plant phenotypes in a non-destructive manner is crucial to advance our understanding of gene function and the effects of the environment. We report on the development of an image analysis pipeline capable of accurately and reliably extracting spike and grain traits from crops without the loss of positional information. This methodology was applied to the analysis of wheat spikes can be readily applied to other economically important crop species.}
