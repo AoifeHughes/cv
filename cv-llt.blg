@@ -1,15 +1,15 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'cv-llt.blg'
-[49] biber-darwin:340> INFO - === Mon Apr 25, 2022, 10:20:43
-[59] Biber.pm:415> INFO - Reading 'cv-llt.bcf'
-[128] Biber.pm:949> INFO - Using all citekeys in bib section 0
-[139] Biber.pm:4340> INFO - Processing section 0
-[147] Biber.pm:4531> INFO - Looking for bibtex format file 'own-bib.bib' for section 0
-[148] bibtex.pm:1689> INFO - LaTeX decoding ...
-[157] bibtex.pm:1494> INFO - Found BibTeX data source 'own-bib.bib'
-[225] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[225] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[225] Biber.pm:4168> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[225] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[233] bbl.pm:654> INFO - Writing 'cv-llt.bbl' with encoding 'UTF-8'
-[242] bbl.pm:757> INFO - Output to cv-llt.bbl
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'cv-llt.blg'
+[61] biber-darwin:340> INFO - === Thu Sep  1, 2022, 09:14:33
+[74] Biber.pm:418> INFO - Reading 'cv-llt.bcf'
+[160] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[173] Biber.pm:4383> INFO - Processing section 0
+[181] Biber.pm:4574> INFO - Looking for bibtex file 'own-bib.bib' for section 0
+[182] bibtex.pm:1713> INFO - LaTeX decoding ...
+[192] bibtex.pm:1518> INFO - Found BibTeX data source 'own-bib.bib'
+[267] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[267] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[268] Biber.pm:4203> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[268] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[276] bbl.pm:654> INFO - Writing 'cv-llt.bbl' with encoding 'UTF-8'
+[285] bbl.pm:757> INFO - Output to cv-llt.bbl
