@@ -3,10 +3,12 @@
 %-------------------------------------------------------------------------------
 % A4 paper size by default, use 'letterpaper' for US letter
 \documentclass[11pt, a4paper]{russell}
-\usepackage[bibstyle=numeric,uniquename=init, maxbibnames=99]{biblatex}
+\usepackage[bibstyle=numeric,uniquename=init, maxbibnames=5]{biblatex}
 \addbibresource{own-bib.bib}
-
-\def\makenamesetup{%
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000\def\makenamesetup{%
   \def\bibnamedelima{~}%
   \def\bibnamedelimb{ }%
   \def\bibnamedelimc{ }%
@@ -69,16 +71,16 @@
 %-------------------------------------------------------------------------------
 % Available options: circle|rectangle,edge/noedge,left/right
 \photo[rectangle,edge,right]{me.jpg}
-\name{Aoife}{Hughes}
-% \position{Software Architect{\enskip\cdotp\enskip}Security Expert}
+\name{Dr. Aoife}{Hughes, MBCS, BS.c., Ph.D. }
+\position{Research Data Scientist | Software Engineer}
 \address{London, UK}
 
-\mobile{+447518536625}
+%\mobile{+447518536625}
 \email{aoife1hughes@gmail.com}
-\dateofbirth{May 5th, 1994}
-%\homepage{www.posquit0.com} 
+\dateofbirth{May 5th, 1994} 
+\homepage{aoifehughes.github.io/} 
 \github{github.com/AoifeHughes}
-\googlescholar{https://scholar.google.com/citations?user=EDFVELkAAAAJ&hl=en}{Aoife Hughes}
+\googlescholar{scholar.google.com/citations?user=EDFVELkAAAAJ&hl=en}{Scholar}
 %% \firstname and \lastname will be used
 % \googlescholar{googlescholar-id}{}
 % \extrainfo{extra information}
